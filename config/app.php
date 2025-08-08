@@ -193,8 +193,7 @@ return [
         App\Providers\AuthServiceProvider::class,
         // App\Providers\BroadcastServiceProvider::class,
         App\Providers\EventServiceProvider::class,
-        App\Providers\RouteServiceProvider::class,
-        Yajra\DataTables\DataTablesServiceProvider::class,
+        App\Providers\RouteServiceProvider::class
 
     ],
 
